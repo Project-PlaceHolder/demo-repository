@@ -10,3 +10,5 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 ## Very Yokunai Kijutsu
 
 これはいい情報だ！
+
+もっといい情報
