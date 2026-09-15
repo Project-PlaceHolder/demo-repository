@@ -1,10 +1,36 @@
 ![Auto Assign](https://github.com/Project-PlaceHolder/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
-
 ![Proof HTML](https://github.com/Project-PlaceHolder/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Demo Repository
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+This repository is a minimal project used to demonstrate basic GitHub repository structure, simple web content, and GitHub Actions status checks.
 
-## Very Yokunai Kijutsu
+## Contents
+
+- `index.html` – a simple static HTML page
+- `package.json` – project metadata and CSS dependency (`@primer/css`)
+- `.github/workflows/` – workflow definitions for repository automation
+
+## Getting started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (recommended: current LTS)
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+## Run locally
+
+Open `index.html` directly in your browser, or serve the repository folder with any static file server.
+
+## GitHub Actions
+
+This repository includes workflows with status badges shown at the top of this README.
+
+## License
+
+MIT
